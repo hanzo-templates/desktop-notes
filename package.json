@@ -1,7 +1,7 @@
 {
   "name": "desktop-notes",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Local-first markdown notes \u2014 one .md file per note in the OS app-data dir, live preview, optional Base sync.",
   "license": "MIT",
